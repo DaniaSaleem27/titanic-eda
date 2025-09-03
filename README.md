@@ -22,6 +22,6 @@ How to Run
 2. Open the notebook `titanic-eda.ipynb` in Jupyter Notebook  
 3. Run all cells to reproduce the analysis  
 
-## 📎 Requirements
+Requirements
 - Python 3.x  
 - Pandas, NumPy, Matplotlib, Seaborn
